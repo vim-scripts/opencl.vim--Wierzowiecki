@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3389
+
+Script by Terence Ou uploaded here:
+http://www.vim.org/scripts/script.php?script_id=3157
+(Thanks Terence ! Great contrib :D)
+but to make it working I needed to change fileencoding into unix (as I use Vim under Linux ).
+
+
